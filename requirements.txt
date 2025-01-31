@@ -1,0 +1,7 @@
+fastapi[standard]
+uvicorn
+keras
+opencv-python
+numpy
+Pillow
+tensorflow
